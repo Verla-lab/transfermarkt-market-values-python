@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "transfermarkt-values"
+version = "0.1.0"
+description = "Fixture-first parser and exporter for public Transfermarkt player market value-search data"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["beautifulsoup4>=4.12,<5"]
+
+[project.scripts]
+transfermarkt-values = "transfermarkt_values.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,24 @@
+{
+  "owner": "Verla-lab",
+  "repository": "transfermarkt-market-values-python",
+  "title": "How to Collect Transfermarkt Player Market Values with Python",
+  "description": "Fixture-first Python scraper for public player market-value tables with typed JSON/CSV export, tests, and explicit stop states.",
+  "visibility": "public",
+  "default_branch": "main",
+  "public_url": "https://github.com/Verla-lab/transfermarkt-market-values-python",
+  "published_at": "2026-11-24",
+  "content_commit": null,
+  "topics": [
+    "transfermarkt",
+    "python",
+    "web-scraping",
+    "data-extraction",
+    "csv",
+    "json",
+    "beautifulsoup",
+    "public-data"
+  ],
+  "affiliation_claim": false,
+  "live_request_performed": false,
+  "temporary_credential": "repo-scoped-deploy-key-pending-revocation"
+}

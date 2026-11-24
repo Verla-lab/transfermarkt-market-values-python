@@ -1,0 +1,22 @@
+[
+  {
+    "player_id": "DEMO-PLAYER-1",
+    "name": "Alex Rivera",
+    "club": "Northbridge FC",
+    "position": "Central Midfield",
+    "age": 24,
+    "nationality": "Spain",
+    "market_value": "€18.00m",
+    "url": "https://www.transfermarkt.com/demo-player-1/profil/spieler/1001"
+  },
+  {
+    "player_id": "DEMO-PLAYER-2",
+    "name": "Jordan Lee",
+    "club": "Harbor United",
+    "position": "Right Winger",
+    "age": 21,
+    "nationality": "Canada",
+    "market_value": "€7.50m",
+    "url": "https://www.transfermarkt.com/demo-player-2/profil/spieler/1002"
+  }
+]

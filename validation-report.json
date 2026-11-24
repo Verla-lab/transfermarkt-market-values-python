@@ -1,0 +1,21 @@
+{
+  "validated_at": "2026-11-24",
+  "python": "3.12",
+  "editable_install": "pass",
+  "unit_tests": {"status": "pass", "passed": 9, "failed": 0},
+  "smoke_tests": {"json_export": "pass", "csv_export": "pass"},
+  "compile": "pass",
+  "fixture_policy": "synthetic-only",
+  "live_request_performed": false,
+  "secret_scan": "pass",
+  "prohibited_phrase_scan": "pass",
+  "responsible_use": "pass",
+  "publication_status": "publishing",
+  "public_url": "https://github.com/Verla-lab/transfermarkt-market-values-python",
+  "owner": "Verla-lab",
+  "default_branch": "main",
+  "content_commit": null,
+  "remote_tree": "not-published",
+  "actions": {"status": "not-run", "runs": []},
+  "temporary_credential_cleanup": null
+}
