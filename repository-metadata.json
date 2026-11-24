@@ -7,7 +7,7 @@
   "default_branch": "main",
   "public_url": "https://github.com/Verla-lab/transfermarkt-market-values-python",
   "published_at": "2026-11-24",
-  "content_commit": null,
+  "content_commit": "ed0d193254e790f25ee21421923c50e259dc9a57",
   "topics": [
     "transfermarkt",
     "python",
@@ -20,5 +20,5 @@
   ],
   "affiliation_claim": false,
   "live_request_performed": false,
-  "temporary_credential": "repo-scoped-deploy-key-pending-revocation"
+  "temporary_credential": "repo-scoped-deploy-key-pending-revocation-after-final-push"
 }

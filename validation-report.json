@@ -10,12 +10,12 @@
   "secret_scan": "pass",
   "prohibited_phrase_scan": "pass",
   "responsible_use": "pass",
-  "publication_status": "publishing",
+  "publication_status": "published",
   "public_url": "https://github.com/Verla-lab/transfermarkt-market-values-python",
   "owner": "Verla-lab",
   "default_branch": "main",
-  "content_commit": null,
-  "remote_tree": "not-published",
-  "actions": {"status": "not-run", "runs": []},
+  "content_commit": "ed0d193254e790f25ee21421923c50e259dc9a57",
+  "remote_tree": "verified",
+  "actions": {"status": "success", "runs": [45323212102]},
   "temporary_credential_cleanup": null
 }
